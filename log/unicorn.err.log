@@ -800,3 +800,707 @@ D, [2014-03-10T12:40:14.632300 #6759] DEBUG -- : waiting 16.0s after suspend/hib
 127.0.0.1 - - [10/Mar/2014 13:14:25] "GET /js/mustache.js HTTP/1.1" 304 - 0.0013
 127.0.0.1 - - [10/Mar/2014 13:14:25] "GET /js/app.js HTTP/1.1" 304 - 0.0012
 127.0.0.1 - - [10/Mar/2014 13:14:25] "GET /img/ess.jpg HTTP/1.1" 304 - 0.0013
+D, [2014-03-10T13:46:09.540790 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-10T15:05:08.211703 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-10T16:02:37.897876 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-10T17:42:40.391126 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-10T21:49:40.075574 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-10T22:51:15.946295 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-11T02:19:29.930739 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-11T10:19:06.708209 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-11T10:41:29.526715 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-11T14:02:44.317455 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-11T14:17:10.919051 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-11T16:03:19.309888 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-11T17:15:03.860666 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-11T19:05:07.616148 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-11T19:37:10.193527 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-11T20:00:19.478131 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-11T20:10:15.946967 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-11T20:13:42.139318 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-11T20:32:33.029381 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-11T23:35:47.451294 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-12T08:03:51.591236 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-12T08:48:05.172020 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-12T10:23:44.714852 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-12T12:30:24.746993 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-12T13:28:03.289657 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-12T14:19:01.624974 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-12T15:08:52.335720 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-12T15:58:06.695272 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-12T16:41:56.106893 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-12T18:09:20.189778 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-12T18:11:23.484239 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-12T21:30:58.926586 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-13T01:47:11.457631 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-13T14:14:07.357682 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-13T15:20:28.261219 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-13T16:58:51.531817 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-13T17:52:51.605331 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-13T21:35:09.277731 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-13T22:08:06.179493 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-13T23:09:48.835966 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-14T00:10:01.850040 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-14T01:10:42.874674 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-14T02:10:55.902073 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-14T03:11:08.937985 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-14T04:11:21.975079 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-14T05:12:02.003365 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-14T06:12:15.047203 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-14T07:12:28.065617 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-14T07:59:43.102613 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-14T08:43:47.639223 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2014-03-14T10:01:32.510652 #6759] DEBUG -- : waiting 16.0s after suspend/hibernation
+I, [2014-03-14T11:14:05.724201 #12059]  INFO -- : listening on addr=0.0.0.0:8080 fd=10
+I, [2014-03-14T11:14:05.724600 #12059]  INFO -- : worker=0 spawning...
+I, [2014-03-14T11:14:05.725469 #12059]  INFO -- : master process ready
+I, [2014-03-14T11:14:05.726668 #12060]  INFO -- : worker=0 spawned pid=12060
+I, [2014-03-14T11:14:05.727399 #12060]  INFO -- : Refreshing Gem list
+I, [2014-03-14T11:14:06.250193 #12060]  INFO -- : worker=0 ready
+SyntaxError - /Users/healsjnr/Development/essendon/app/views/main.haml:2: syntax error, unexpected ':', expecting =>
+...nil, id: "owl-content", :class: "owl-carousel")}>\n    <div#...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:2: syntax error, unexpected ')', expecting tSTRING_DEND
+...ntent", :class: "owl-carousel")}>\n    <div#{_hamlout.adjust...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:3: syntax error, unexpected tSTRING_DEND, expecting '}'
+...out.attributes({"class"=>"row"}, nil, id: 'main-footer')}></...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:3: Can't assign to nil
+...tributes({"class"=>"row"}, nil, id: 'main-footer')}></div>\n...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:3: syntax error, unexpected ')', expecting tSTRING_DEND
+..."row"}, nil, id: 'main-footer')}></div>\n    <div class='row...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: syntax error, unexpected tSTRING_BEG, expecting ')'
+...lout.attributes({}, nil, :src "essendon.png")}>\n    </div>\...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: syntax error, unexpected ')', expecting tSTRING_DEND
+...s({}, nil, :src "essendon.png")}>\n    </div>\n  </div>\n</d...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: unknown regexp options - dv
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: syntax error, unexpected $undefined
+....png")}>\n    </div>\n  </div>\n</div>\n<div class='containe...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...f='https://twitter.com/search?q=%23essendon' width='468'>Twe...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: unknown type of %string
+...ttps://twitter.com/search?q=%23essendon' width='468'>Tweets ...
+...                               ^:
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:264:in `class_eval'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:264:in `compile_template_method'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:240:in `compiled_method'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:169:in `evaluate'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/haml.rb:24:in `evaluate'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:103:in `render'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:805:in `render'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:674:in `haml'
+	/Users/healsjnr/Development/essendon/app/app.rb:7:in `block in <class:App>'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1593:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1593:in `block in compile!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `[]'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `block (3 levels) in route!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:976:in `route_eval'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `block (2 levels) in route!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:997:in `block in process_route'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:995:in `catch'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:995:in `process_route'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:955:in `block in route!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:954:in `each'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:954:in `route!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1067:in `block in dispatch!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `block in invoke'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `catch'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `invoke'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1064:in `dispatch!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:889:in `block in call!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `block in invoke'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `catch'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `invoke'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:889:in `call!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:877:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/xss_header.rb:18:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/path_traversal.rb:16:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/json_csrf.rb:18:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/base.rb:50:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/base.rb:50:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/frame_options.rb:31:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/logger.rb:15:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:210:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/methodoverride.rb:21:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/show_exceptions.rb:21:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:180:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:2004:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1469:in `block in call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1778:in `synchronize'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1469:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/lint.rb:49:in `_call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/lint.rb:37:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/showexceptions.rb:24:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/commonlogger.rb:33:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:217:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/chunked.rb:43:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/lib/unicorn/http_server.rb:572:in `process_client'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/lib/unicorn/http_server.rb:666:in `worker_loop'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/lib/unicorn/http_server.rb:521:in `spawn_missing_workers'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/lib/unicorn/http_server.rb:140:in `start'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/bin/unicorn:126:in `<top (required)>'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/bin/unicorn:23:in `load'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/bin/unicorn:23:in `<main>'
+127.0.0.1 - - [14/Mar/2014 11:14:12] "GET / HTTP/1.1" 500 179237 0.0796
+127.0.0.1 - - [14/Mar/2014 11:14:12] "GET /__sinatra__/500.png HTTP/1.1" 200 24378 0.0462
+SyntaxError - /Users/healsjnr/Development/essendon/app/views/main.haml:2: syntax error, unexpected tSTRING_BEG, expecting =>
+...il, id: "owl-content", :class "owl-carousel")}>\n    <div#{_...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:2: syntax error, unexpected ')', expecting tSTRING_DEND
+...ontent", :class "owl-carousel")}>\n    <div#{_hamlout.adjust...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:3: syntax error, unexpected tSTRING_DEND, expecting '}'
+...out.attributes({"class"=>"row"}, nil, id: 'main-footer')}></...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:3: Can't assign to nil
+...tributes({"class"=>"row"}, nil, id: 'main-footer')}></div>\n...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:3: syntax error, unexpected ')', expecting tSTRING_DEND
+..."row"}, nil, id: 'main-footer')}></div>\n    <div class='row...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: syntax error, unexpected tSTRING_BEG, expecting ')'
+...lout.attributes({}, nil, :src "essendon.png")}>\n    </div>\...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: syntax error, unexpected ')', expecting tSTRING_DEND
+...s({}, nil, :src "essendon.png")}>\n    </div>\n  </div>\n</d...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: unknown regexp options - dv
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: syntax error, unexpected $undefined
+....png")}>\n    </div>\n  </div>\n</div>\n<div class='containe...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...f='https://twitter.com/search?q=%23essendon' width='468'>Twe...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: unknown type of %string
+...ttps://twitter.com/search?q=%23essendon' width='468'>Tweets ...
+...                               ^:
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:264:in `class_eval'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:264:in `compile_template_method'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:240:in `compiled_method'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:169:in `evaluate'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/haml.rb:24:in `evaluate'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:103:in `render'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:805:in `render'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:674:in `haml'
+	/Users/healsjnr/Development/essendon/app/app.rb:7:in `block in <class:App>'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1593:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1593:in `block in compile!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `[]'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `block (3 levels) in route!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:976:in `route_eval'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `block (2 levels) in route!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:997:in `block in process_route'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:995:in `catch'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:995:in `process_route'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:955:in `block in route!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:954:in `each'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:954:in `route!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1067:in `block in dispatch!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `block in invoke'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `catch'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `invoke'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1064:in `dispatch!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:889:in `block in call!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `block in invoke'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `catch'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `invoke'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:889:in `call!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:877:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/xss_header.rb:18:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/path_traversal.rb:16:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/json_csrf.rb:18:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/base.rb:50:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/base.rb:50:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/frame_options.rb:31:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/logger.rb:15:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:210:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/methodoverride.rb:21:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/show_exceptions.rb:21:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:180:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:2004:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1469:in `block in call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1778:in `synchronize'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1469:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/lint.rb:49:in `_call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/lint.rb:37:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/showexceptions.rb:24:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/commonlogger.rb:33:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:217:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/chunked.rb:43:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/lib/unicorn/http_server.rb:572:in `process_client'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/lib/unicorn/http_server.rb:666:in `worker_loop'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/lib/unicorn/http_server.rb:521:in `spawn_missing_workers'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/lib/unicorn/http_server.rb:140:in `start'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/bin/unicorn:126:in `<top (required)>'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/bin/unicorn:23:in `load'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/bin/unicorn:23:in `<main>'
+127.0.0.1 - - [14/Mar/2014 11:14:27] "GET / HTTP/1.1" 500 179365 0.0408
+127.0.0.1 - - [14/Mar/2014 11:14:27] "GET /__sinatra__/500.png HTTP/1.1" 304 - 0.0017
+SyntaxError - /Users/healsjnr/Development/essendon/app/views/main.haml:2: syntax error, unexpected tSTRING_BEG, expecting =>
+...il, id: "owl-content", :class "owl-carousel")}>\n    <div#{_...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:2: syntax error, unexpected ')', expecting tSTRING_DEND
+...ontent", :class "owl-carousel")}>\n    <div#{_hamlout.adjust...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:3: syntax error, unexpected tSTRING_DEND, expecting '}'
+...out.attributes({"class"=>"row"}, nil, id: 'main-footer')}></...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:3: Can't assign to nil
+...tributes({"class"=>"row"}, nil, id: 'main-footer')}></div>\n...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:3: syntax error, unexpected ')', expecting tSTRING_DEND
+..."row"}, nil, id: 'main-footer')}></div>\n    <div class='row...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: syntax error, unexpected tSTRING_BEG, expecting ')'
+...lout.attributes({}, nil, :src "essendon.png")}>\n    </div>\...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: syntax error, unexpected ')', expecting tSTRING_DEND
+...s({}, nil, :src "essendon.png")}>\n    </div>\n  </div>\n</d...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: unknown regexp options - dv
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: syntax error, unexpected $undefined
+....png")}>\n    </div>\n  </div>\n</div>\n<div class='containe...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...f='https://twitter.com/search?q=%23essendon' width='468'>Twe...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: unknown type of %string
+...ttps://twitter.com/search?q=%23essendon' width='468'>Tweets ...
+...                               ^:
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:264:in `class_eval'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:264:in `compile_template_method'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:240:in `compiled_method'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:169:in `evaluate'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/haml.rb:24:in `evaluate'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:103:in `render'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:805:in `render'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:674:in `haml'
+	/Users/healsjnr/Development/essendon/app/app.rb:7:in `block in <class:App>'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1593:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1593:in `block in compile!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `[]'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `block (3 levels) in route!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:976:in `route_eval'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `block (2 levels) in route!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:997:in `block in process_route'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:995:in `catch'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:995:in `process_route'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:955:in `block in route!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:954:in `each'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:954:in `route!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1067:in `block in dispatch!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `block in invoke'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `catch'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `invoke'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1064:in `dispatch!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:889:in `block in call!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `block in invoke'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `catch'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `invoke'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:889:in `call!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:877:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/xss_header.rb:18:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/path_traversal.rb:16:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/json_csrf.rb:18:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/base.rb:50:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/base.rb:50:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/frame_options.rb:31:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/logger.rb:15:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:210:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/methodoverride.rb:21:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/show_exceptions.rb:21:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:180:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:2004:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1469:in `block in call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1778:in `synchronize'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1469:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/lint.rb:49:in `_call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/lint.rb:37:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/showexceptions.rb:24:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/commonlogger.rb:33:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:217:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/chunked.rb:43:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/lib/unicorn/http_server.rb:572:in `process_client'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/lib/unicorn/http_server.rb:666:in `worker_loop'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/lib/unicorn/http_server.rb:521:in `spawn_missing_workers'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/lib/unicorn/http_server.rb:140:in `start'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/bin/unicorn:126:in `<top (required)>'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/bin/unicorn:23:in `load'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/bin/unicorn:23:in `<main>'
+127.0.0.1 - - [14/Mar/2014 11:14:28] "GET / HTTP/1.1" 500 179365 0.0633
+127.0.0.1 - - [14/Mar/2014 11:14:28] "GET /__sinatra__/500.png HTTP/1.1" 304 - 0.0018
+SyntaxError - /Users/healsjnr/Development/essendon/app/views/main.haml:5: syntax error, unexpected tSTRING_BEG, expecting ')'
+...lout.attributes({}, nil, :src "essendon.png")}>\n    </div>\...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: syntax error, unexpected ')', expecting tSTRING_DEND
+...s({}, nil, :src "essendon.png")}>\n    </div>\n  </div>\n</d...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: unknown regexp options - dv
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: syntax error, unexpected $undefined
+....png")}>\n    </div>\n  </div>\n</div>\n<div class='containe...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...f='https://twitter.com/search?q=%23essendon' width='468'>Twe...
+...                               ^
+/Users/healsjnr/Development/essendon/app/views/main.haml:5: unknown type of %string
+...ttps://twitter.com/search?q=%23essendon' width='468'>Tweets ...
+...                               ^:
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:264:in `class_eval'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:264:in `compile_template_method'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:240:in `compiled_method'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:169:in `evaluate'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/haml.rb:24:in `evaluate'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:103:in `render'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:805:in `render'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:674:in `haml'
+	/Users/healsjnr/Development/essendon/app/app.rb:7:in `block in <class:App>'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1593:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1593:in `block in compile!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `[]'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `block (3 levels) in route!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:976:in `route_eval'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `block (2 levels) in route!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:997:in `block in process_route'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:995:in `catch'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:995:in `process_route'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:955:in `block in route!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:954:in `each'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:954:in `route!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1067:in `block in dispatch!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `block in invoke'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `catch'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `invoke'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1064:in `dispatch!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:889:in `block in call!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `block in invoke'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `catch'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `invoke'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:889:in `call!'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:877:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/xss_header.rb:18:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/path_traversal.rb:16:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/json_csrf.rb:18:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/base.rb:50:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/base.rb:50:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.2/lib/rack/protection/frame_options.rb:31:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/logger.rb:15:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:210:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/methodoverride.rb:21:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/show_exceptions.rb:21:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:180:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:2004:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1469:in `block in call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1778:in `synchronize'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:1469:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/lint.rb:49:in `_call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/lint.rb:37:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/showexceptions.rb:24:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/commonlogger.rb:33:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/sinatra-1.4.4/lib/sinatra/base.rb:217:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/chunked.rb:43:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/lib/unicorn/http_server.rb:572:in `process_client'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/lib/unicorn/http_server.rb:666:in `worker_loop'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/lib/unicorn/http_server.rb:521:in `spawn_missing_workers'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/lib/unicorn/http_server.rb:140:in `start'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/unicorn-4.8.2/bin/unicorn:126:in `<top (required)>'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/bin/unicorn:23:in `load'
+	/Users/healsjnr/.rbenv/versions/2.0.0-p353/bin/unicorn:23:in `<main>'
+127.0.0.1 - - [14/Mar/2014 11:15:07] "GET / HTTP/1.1" 500 176489 0.0551
+127.0.0.1 - - [14/Mar/2014 11:15:08] "GET /__sinatra__/500.png HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET / HTTP/1.1" 200 1988 0.0088
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /css/bootstrap.css HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /css/font-awesome.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /css/slider.css HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /css/owl.carousel.css HTTP/1.1" 200 1476 0.0016
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /css/owl.theme.css HTTP/1.1" 200 1665 0.0026
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /css/owl.transitions.css HTTP/1.1" 200 4476 0.0018
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /css/styles.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /js/jquery.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /js/underscore.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /js/backbone.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /js/bootstrap.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /js/bootstrap-slider.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /js/typeahead.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /js/mustache.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /js/owl.carousel.js HTTP/1.1" 404 487 0.0328
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /js/app.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:15:27] "GET /essendon.png HTTP/1.1" 404 481 0.0019
+127.0.0.1 - - [14/Mar/2014 11:15:57] "GET /img/ess.jpg HTTP/1.1" 304 - 0.0016
+127.0.0.1 - - [14/Mar/2014 11:18:08] "GET / HTTP/1.1" 200 1988 0.0095
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /css/bootstrap.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /css/font-awesome.css HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /css/slider.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /css/owl.carousel.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /css/owl.theme.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /css/owl.transitions.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /css/styles.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /js/jquery.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /js/underscore.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /js/backbone.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /js/bootstrap.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /js/bootstrap-slider.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /js/typeahead.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /js/mustache.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /js/owl.carousel.js HTTP/1.1" 404 487 0.0017
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /js/app.js HTTP/1.1" 200 70 0.0027
+127.0.0.1 - - [14/Mar/2014 11:18:09] "GET /essendon.png HTTP/1.1" 404 481 0.0016
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET / HTTP/1.1" 200 1996 0.0076
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /css/bootstrap.css HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /css/font-awesome.css HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /css/slider.css HTTP/1.1" 304 - 0.0016
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /css/owl.carousel.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /css/owl.theme.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /css/owl.transitions.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /css/styles.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /js/jquery.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /js/underscore.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /js/backbone.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /js/bootstrap.js HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /js/bootstrap-slider.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /js/typeahead.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /js/mustache.js HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /js/owl.carousel.min.js HTTP/1.1" 200 14916 0.0043
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /js/app.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:19:53] "GET /img/essendon.png HTTP/1.1" 200 - 0.0022
+127.0.0.1 - - [14/Mar/2014 11:21:44] "GET /img/essendon.png HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [14/Mar/2014 11:22:16] "GET /img/essendon.png HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET / HTTP/1.1" 200 1997 0.0068
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /css/bootstrap.css HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /css/font-awesome.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /css/slider.css HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /css/owl.carousel.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /css/owl.theme.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /css/owl.transitions.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /css/styles.css HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /js/jquery.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /js/underscore.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /js/backbone.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /js/bootstrap.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /js/bootstrap-slider.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /js/typeahead.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /js/mustache.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /js/owl.carousel.min.js HTTP/1.1" 304 - 0.0161
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /js/app.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [14/Mar/2014 11:22:18] "GET /img/essendon.png HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET / HTTP/1.1" 200 1993 0.0102
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /css/bootstrap.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /css/font-awesome.css HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /css/slider.css HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /css/owl.carousel.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /css/owl.theme.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /css/owl.transitions.css HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /css/styles.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /js/jquery.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /js/underscore.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /js/backbone.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /js/bootstrap.js HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /js/bootstrap-slider.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /js/typeahead.js HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /js/mustache.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /js/owl.carousel.min.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /js/app.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:24:14] "GET /img/ess2.jpg HTTP/1.1" 200 70710 0.0100
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET / HTTP/1.1" 200 2020 0.0091
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /css/bootstrap.css HTTP/1.1" 304 - 0.0053
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /css/font-awesome.css HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /css/slider.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /css/owl.carousel.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /css/owl.theme.css HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /css/owl.transitions.css HTTP/1.1" 304 - 0.0016
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /css/styles.css HTTP/1.1" 304 - 0.0016
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /js/jquery.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /js/underscore.js HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /js/backbone.js HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /js/bootstrap.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /js/bootstrap-slider.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /js/typeahead.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /js/mustache.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /js/owl.carousel.min.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /js/app.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /img/ess.jpg HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:25:11] "GET /img/ess2.jpg HTTP/1.1" 304 - 0.0016
+127.0.0.1 - - [14/Mar/2014 11:26:42] "GET / HTTP/1.1" 200 1996 0.0103
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /css/bootstrap.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /css/font-awesome.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /css/slider.css HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /css/owl.carousel.css HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /css/owl.theme.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /css/owl.transitions.css HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /css/styles.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /js/jquery.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /js/underscore.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /js/backbone.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /js/bootstrap.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /js/bootstrap-slider.js HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /js/typeahead.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /js/mustache.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /js/owl.carousel.min.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /js/app.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /img/ess.jpg HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [14/Mar/2014 11:26:43] "GET /img/ess2.jpg HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET / HTTP/1.1" 200 2022 0.0109
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /css/bootstrap.css HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /css/font-awesome.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /css/slider.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /css/owl.carousel.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /css/owl.theme.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /css/owl.transitions.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /css/styles.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /js/jquery.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /js/underscore.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /js/backbone.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /js/bootstrap.js HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /js/bootstrap-slider.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /js/typeahead.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /js/mustache.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /js/owl.carousel.min.js HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /js/app.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /img/ess.jpg HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:38:23] "GET /img/ess2.jpg HTTP/1.1" 304 - 0.0016
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET / HTTP/1.1" 200 2019 0.0140
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /css/bootstrap.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /css/font-awesome.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /css/slider.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /css/owl.carousel.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /css/owl.theme.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /css/owl.transitions.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /css/styles.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /js/jquery.js HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /js/underscore.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /js/backbone.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /js/bootstrap.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /js/bootstrap-slider.js HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /js/typeahead.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /js/mustache.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /js/owl.carousel.min.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /js/app.js HTTP/1.1" 200 67 0.0018
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /img/ess.jpg HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:39:40] "GET /img/ess2.jpg HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET / HTTP/1.1" 200 2019 0.0085
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /css/bootstrap.css HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /css/font-awesome.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /css/slider.css HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /css/owl.carousel.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /css/owl.theme.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /css/owl.transitions.css HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /css/styles.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /js/jquery.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /js/underscore.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /js/backbone.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /js/bootstrap.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /js/bootstrap-slider.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /js/typeahead.js HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /js/mustache.js HTTP/1.1" 304 - 0.0213
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /js/owl.carousel.min.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /js/app.js HTTP/1.1" 200 135 0.0020
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /img/ess.jpg HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:41:53] "GET /img/ess2.jpg HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET / HTTP/1.1" 200 1943 0.0091
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /css/bootstrap.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /css/font-awesome.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /css/slider.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /css/styles.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /css/owl.carousel.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /css/owl.theme.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /js/jquery.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /js/underscore.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /js/backbone.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /js/bootstrap.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /js/bootstrap-slider.js HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /js/typeahead.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /js/mustache.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /js/owl.carousel.min.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /js/app.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /img/ess.jpg HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:44:09] "GET /img/ess2.jpg HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:47:09] "GET / HTTP/1.1" 200 1953 0.0076
+127.0.0.1 - - [14/Mar/2014 11:47:09] "GET /css/bootstrap.css HTTP/1.1" 304 - 0.0031
+127.0.0.1 - - [14/Mar/2014 11:47:09] "GET /css/font-awesome.css HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:47:09] "GET /css/slider.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:47:09] "GET /css/styles.css HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:47:09] "GET /css/owl.carousel.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:47:09] "GET /css/owl.theme.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [14/Mar/2014 11:47:09] "GET /js/jquery-1.9.1.min.js HTTP/1.1" 200 92629 0.0063
+127.0.0.1 - - [14/Mar/2014 11:47:09] "GET /js/underscore.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:47:09] "GET /js/backbone.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:47:09] "GET /js/bootstrap.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:47:09] "GET /js/bootstrap-slider.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:47:09] "GET /js/typeahead.js HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [14/Mar/2014 11:47:10] "GET /js/mustache.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:47:10] "GET /js/owl.carousel.min.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:47:10] "GET /js/app.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:47:10] "GET /img/ess.jpg HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:47:10] "GET /img/ess2.jpg HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:47:10] "GET /js/jquery.min.map HTTP/1.1" 404 486 0.0069
+127.0.0.1 - - [14/Mar/2014 11:47:13] "GET / HTTP/1.1" 200 1953 0.0102
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /css/bootstrap.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /css/font-awesome.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /css/slider.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /css/styles.css HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /css/owl.carousel.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /css/owl.theme.css HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /js/jquery-1.9.1.min.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /js/underscore.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /js/backbone.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /js/bootstrap.js HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /js/bootstrap-slider.js HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /js/typeahead.js HTTP/1.1" 304 - 0.0016
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /js/mustache.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /js/owl.carousel.min.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /js/app.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /img/ess.jpg HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /img/ess2.jpg HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [14/Mar/2014 11:47:14] "GET /js/jquery.min.map HTTP/1.1" 404 486 0.0019
+127.0.0.1 - - [14/Mar/2014 11:52:09] "GET / HTTP/1.1" 200 1953 0.0070
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /css/bootstrap.css HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /css/font-awesome.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /css/slider.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /css/styles.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /css/owl.carousel.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /css/owl.theme.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /js/jquery-1.9.1.min.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /js/underscore.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /js/backbone.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /js/bootstrap.js HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /js/bootstrap-slider.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /js/typeahead.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /js/mustache.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /js/owl.carousel.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /js/app.js HTTP/1.1" 200 94 0.0019
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /img/ess.jpg HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /img/ess2.jpg HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:52:10] "GET /js/jquery.min.map HTTP/1.1" 404 486 0.0013
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET / HTTP/1.1" 200 2106 0.0071
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /css/bootstrap.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /css/font-awesome.css HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /css/slider.css HTTP/1.1" 304 - 0.0072
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /css/styles.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /css/owl.carousel.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /css/owl.theme.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /js/jquery-1.9.1.min.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /js/underscore.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /js/backbone.js HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /js/bootstrap.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /js/bootstrap-slider.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /js/typeahead.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /js/mustache.js HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /js/owl.carousel.min.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /js/app.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /img/ess.jpg HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [14/Mar/2014 11:56:19] "GET /img/ess2.jpg HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [14/Mar/2014 11:56:20] "GET /js/jquery.min.map HTTP/1.1" 404 486 0.0014
