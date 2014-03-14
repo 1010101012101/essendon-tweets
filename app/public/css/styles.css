@@ -8,6 +8,21 @@ body {
   background-color: #000;
 }
 
+div iframe  {
+  display: block;
+  margin: auto;
+}
+
+.owl-carousel img {
+  display: block;
+  margin: auto;
+}
+
+.owl-carousel iframe {
+  display: block;
+  margin: auto;
+}
+
 .center {
   display: table
   float: none;
