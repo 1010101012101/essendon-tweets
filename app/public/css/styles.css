@@ -8,6 +8,11 @@ body {
   background-color: #000;
 }
 
+div video {
+  display: block;
+  margin: auto;
+}
+
 div iframe  {
   display: block;
   margin: auto;
@@ -21,13 +26,6 @@ div iframe  {
 .owl-carousel iframe {
   display: block;
   margin: auto;
-}
-
-.center {
-  display: table
-  float: none;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 #main-footer {

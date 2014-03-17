@@ -1,11 +1,17 @@
 %div.container
   %div{:id => "owl-demo", :class => "owl-carousel"}
     %div.item
-      %img{:src => "/img/ess.jpg"}
+      = haml :_default_slide, :layout => false
     %div.item
-      %img{:src => "/img/ess2.jpg"}
+      = haml :_dank_vid, :layout => false
     %div.item
-      %iframe{ :width => "736", :height => "400", :src => "//www.youtube.com/embed/ZdCHIDA6sM4?rel=0", :frameborder => "0"} 
+      = haml :_default_slide_2, :layout => false
+    %div.item
+      = haml :_hird_slide, :layout => false
+    %div.item
+      = haml :_default_slide_3, :layout => false
+    %div.item
+      = haml :_paul_little, :layout => false
 %div.container
   %div.row{ :style => "margin-top: 20px;"}
     %div
