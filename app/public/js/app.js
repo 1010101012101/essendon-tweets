@@ -6,6 +6,15 @@ $(document).ready(function() {
     afterMove: function(e) {
       var contentElement = $('.active').get(0).getElementsByTagName("video")[0];
       if (typeof HTMLVideoElement !== "undefined" && contentElement instanceof HTMLVideoElement) {
+        if (contentElement.requestFullscreen) {
+              contentElement.requestFullscreen();
+        } else if (contentElement.webkitRequestFullscreen) {
+              contentElement.webkitRequestFullscreen();
+        } else if (contentElement.mozRequestFullScreen) {
+              contentElement.mozRequestFullScreen();
+        } else if (contentElement.msRequestFullscreen) {
+              contentElement.msRequestFullscreen();
+        }
         contentElement.play();  
       } 
     },
@@ -13,7 +22,24 @@ $(document).ready(function() {
       var contentElement = $('.active').get(0).getElementsByTagName("video")[0];
       if (typeof HTMLVideoElement !== "undefined" && contentElement instanceof HTMLVideoElement) {
         contentElement.pause();  
-      } 
+      }
+      // full-screen available?
+      if (
+        document.fullscreenEnabled || 
+        document.webkitFullscreenEnabled || 
+        document.mozFullScreenEnabled ||
+        document.msFullscreenEnabled
+      ) {
+        if (document.exitFullscreen) {
+              document.exitFullscreen();
+        } else if (document.webkitExitFullscreen) {
+              document.webkitExitFullscreen();
+        } else if (document.mozCancelFullScreen) {
+              document.mozCancelFullScreen();
+        } else if (document.msExitFullscreen) {
+              document.msExitFullscreen();
+        }
+      }
     }
   });
   

@@ -1,28 +1,44 @@
+//%div.container
+//  %div.row
+//    %div.col-md-3
+//      %h2 Applause
+//    %div.col-md-3.col-md-offset-6
+//      %h2.left Applause
 %div.container
   %div{:id => "owl-demo", :class => "owl-carousel"}
     %div.item
-      = haml :_default_slide, :layout => false
+      %img{:src => "/img/blank.png"}
+    %div.item
+      %video{:width => 640, :height => 360, :controls => ""}
+        %source{:src => "/img/4qtrs.mp4"}
+    %div.item
+      %img{:src => "/img/ess.jpg"}
     %div.item.vid
-      = haml :_dank_vid, :layout => false
+      %video{:width => 640, :height => 360, :controls => ""}
+        %source{:src => "/img/dank-video.m4v"}
     %div.item
-      = haml :_default_slide, :layout => false
+      %img{:src => "/img/ess.jpg"}
     %div.item
-      = haml :_default_slide_3, :layout => false
+      %img{:src => "/img/hird-overview.jpg"}
     %div.item
-      = haml :_hird_slide, :layout => false
+      %video{:width => 640, :height => 360, :controls => ""}
+        %source{:src => "/img/hird-video.m4v"}
     %div.item
-      = haml :_default_slide_2, :layout => false
+      %img{:src => "/img/whatever.jpg"}
     %div.item
-      = haml :_paul_little, :layout => false
+      %img{:src => "/img/inject.jpg"}
     %div.item
-      = haml :_org_struc, :layout => false
+      %img{:src => "/img/org_struct.png"}
     %div.item
-      = haml :_org_struc_2, :layout => false
+      %img{:src => "/img/pre-wall.jpg"}
+    %div.item
+      %img{:src => "/img/wall.jpg"}
+    %div.item
+      %img{:src => "/img/standby.jpg"}
 %div.container
   %div.row{ :style => "margin-top: 20px;"}
     %div
-      %a{:class => "twitter-timeline center", "data-dnt" => "true", "href" => "https://twitter.com/search?q=%23essendon",  "data-widget-id" => "442836092656431106", "width" => "468"} Tweets about "#essendon"
+      %a{:class => "twitter-timeline center", "data-dnt" => "true", "href" => "https://twitter.com/search?q=%234qtrsEssendon",  "data-widget-id" => "446924880726863872", "width" => "468"} Tweets about "#4qtrsEssendon"
       %script{ :type => "text/javascript"}
         !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
 
-  
